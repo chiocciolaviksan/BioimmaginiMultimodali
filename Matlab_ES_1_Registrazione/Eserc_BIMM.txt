@@ -1,0 +1,11 @@
+
+ DATI RILEVANTI ESERCITAZIONE 
+
+ 1. metodo dei CENTROIDI
+    alpha       tx          ty          s1         s2          0
+-0.204474	7.543481	-11.808964	1.000000	1.000000	0.000000	
+
+
+ 2. metodo PAR
+    alpha       tx          ty          s1         s2          0
+1.237745	8.988426	9.906397	1.000000	1.000000	0.000000	
